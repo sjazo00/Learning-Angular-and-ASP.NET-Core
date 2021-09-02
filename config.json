@@ -1,0 +1,19 @@
+﻿{
+    "Colors": {
+        "Favorite": "Blue"
+    },
+    "ConnectionStrings": {
+        "AppContextDb": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=LearningDb;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets = true;"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning"
+        }
+    },
+    "Tokens": {
+        "Key": ";laksjdf;laksjdf;aise;lfia;slkd;",
+        "Issuer": "http://localhost:44304",
+        "Audience": "http://localhost:44304"
+    }
+}
